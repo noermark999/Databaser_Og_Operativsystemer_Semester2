@@ -21,6 +21,7 @@ public class SelectMedlemmer {
 				System.out.println(res.getString(1)+ "\t"  + res.getString(2) + " \t "  +res.getString(3) );
 			}
 
+
 			if (res != null)
 				res.close();
 			if (stmt != null)
