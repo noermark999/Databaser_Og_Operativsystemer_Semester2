@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Databaser_Og_Operativsystemer_Semester2.iml" filepath="$PROJECT_DIR$/Databaser_Og_Operativsystemer_Semester2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek6_JDBC/Lek6_JDBC.iml" filepath="$PROJECT_DIR$/Lek6_JDBC/Lek6_JDBC.iml" />
+    </modules>
+  </component>
+</project>
