@@ -8,18 +8,18 @@ public class TestSnakkesagligPerson {
 		SnakkesagligPerson ib = new SnakkesagligPerson("Ib", 30);
 
 		//man bruger implements Runnable skal man først lave en tråd på Runnable objektet
-		Thread tradUlla = new Thread(ulla);
-		Thread tradPia = new Thread(pia);
-		Thread tradIb = new Thread(ib);
+		//Thread tradUlla = new Thread(ulla);
+		//Thread tradPia = new Thread(pia);
+		//Thread tradIb = new Thread(ib);
 		
-		tradUlla.start();
-		tradPia.start();
-		tradIb.start();
+		//tradUlla.start();
+		//tradPia.start();
+		//tradIb.start();
 
-//bruges når man extends Thread
-//		ulla.start();
-//		pia.start();
-//		ib.start();
+		//bruges når man extends Thread
+		ulla.start();
+		pia.start();
+		ib.start();
 
 	}
 

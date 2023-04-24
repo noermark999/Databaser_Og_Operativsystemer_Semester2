@@ -1,7 +1,7 @@
 package traadeks22T;
 
-//public class SnakkesagligPerson extends Thread 
-public class SnakkesagligPerson implements Runnable
+public class SnakkesagligPerson extends Thread
+//public class SnakkesagligPerson implements Runnable
 	{
 	  private String navn;
 	  private int ventetid;
