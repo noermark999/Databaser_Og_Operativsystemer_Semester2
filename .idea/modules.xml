@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Databaser_Og_Operativsystemer_Semester2.iml" filepath="$PROJECT_DIR$/Databaser_Og_Operativsystemer_Semester2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lek13_Threads/Lek13_Threads.iml" filepath="$PROJECT_DIR$/Lek13_Threads/Lek13_Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek14_Threads/Lek14_Threads.iml" filepath="$PROJECT_DIR$/Lek14_Threads/Lek14_Threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lek6_JDBC/Lek6_JDBC.iml" filepath="$PROJECT_DIR$/Lek6_JDBC/Lek6_JDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObliOpgave/ObliOpgave.iml" filepath="$PROJECT_DIR$/ObliOpgave/ObliOpgave.iml" />
     </modules>
